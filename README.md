@@ -23,6 +23,7 @@
 - 3D printing cool stuff and projects
 - F1/Car enthusiast 🚗
 - Gamer 🕹️
+- Raspberry Pi 🥧
 
 ---
 
