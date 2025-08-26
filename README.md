@@ -9,6 +9,7 @@
 
 - [**browser-testing-tools**](https://github.com/DJTheron/browser-testing-tools): Automating browser testing to make web development smoother and more reliable.
 - [**chat-server**](https://github.com/DJTheron/chat-server): My chat server project—experimenting with real-time messaging and backend architecture.
+- [**guessing-game**](https://github.com/DJTheron/guessing-game): A small text based **rust** game I created while learning.
 
 ---
 
