@@ -8,7 +8,7 @@
 ## 🚀 Projects I'm proud of
 
 - [**browser-testing-tools**](https://github.com/DJTheron/browser-testing-tools): Automating browser testing to make web development smoother and more reliable.
-- [**chat-server2**](https://github.com/DJTheron/chat-server2): My chat server project—experimenting with real-time messaging and backend architecture.
+- [**chat-server2**](https://github.com/DJTheron/chat-server): My chat server project—experimenting with real-time messaging and backend architecture.
 
 ---
 
