@@ -20,7 +20,7 @@
 
 ### 📦 Outside of Code
 
-- 3D printing cool gadgets & parts
+- 3D printing cool stuff and projects
 - F1/Car enthusiast 🚗
 - Gamer 🕹️
 
