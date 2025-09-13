@@ -27,8 +27,7 @@
 
 ---
 
-<!--
-**DJs Motto:** Keep building, keep learning!
--->
+![](https://github-readme-streak-stats.herokuapp.com/?user=DJTheron&theme=dark&hide_border=false)<br/>
+
 
 Thanks for visiting my profile!
