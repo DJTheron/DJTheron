@@ -15,7 +15,7 @@
 
 ### 🧰 My Toolbox
 
-- **Languages:** Python, Rust (learning)
+- **Languages:** Python, Rust (learning), Java (learning)
 ---
 
 ### 📦 Outside of Code
